@@ -110,7 +110,6 @@ OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using
 
 * **Intrusion Detection System Using Machine Learning** - IJFMR Journal (June 2023)
 * **Plant Disease Detection** - Computer Vision & Deep Learning
-* **AI Gameplay Agents** - LLM-powered decision making
 
 ---
 
