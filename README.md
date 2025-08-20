@@ -91,25 +91,6 @@ OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using
 
 ---
 
-### 💼 **Professional Experience**
-
-* **Full Stack Developer** @ Saayam, San Jose (Jul 2025 - Present)
-  * React/TypeScript frontend, Node.js/Express API, PostgreSQL backend
-  * JWT & Google OAuth SSO, real-time Pusher notifications
-  * CI/CD with GitHub Actions, AWS ECS, Docker, Terraform
-
-* **Software Engineer** @ Kalam Dream Labs (Jan 2023 - Dec 2023)
-  * Apache Airflow ETL pipelines processing 100+ GB daily data
-  * Azure microservices reducing dashboard load from 8s to 4s
-  * PostgreSQL optimizations with 100% throughput improvement
-
-* **Software Developer Intern** @ Kalam Dream Labs (Aug 2022 - Dec 2022)
-  * Java/Spring Boot microservices handling 500-800 daily submissions
-  * DynamoDB migration reducing API response from 850ms to 320ms
-  * AWS CI/CD pipeline cutting deployment from 90min to 12min
-
----
-
 ### 🚀 **Let's Work Together**
 
 [![Hire Me](https://img.shields.io/badge/Hire_Me-00C851?style=for-the-badge&logo=hire-me&logoColor=white)](mailto:sampathurman@gmail.com)
