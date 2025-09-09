@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&height=200\&text=Sai%20Sampath%20%F0%9F%91%8B\&fontSize=42\&color=0:06B6D4,100:7C3AED\&fontColor=ffffff\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving\&height=220\&text=Sai%20Sampath%20Chinthapalli\&fontSize=36\&fontAlign=50\&fontAlignY=36\&color=0:06B6D4,100:7C3AED\&fontColor=ffffff\&animation=twinkling)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=SDE+who+loves+backend+systems%2C+DX%2C+and+delightful+UIs;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Kafka+%7C+Docker+%7C+AWS;Next.js+%7C+TypeScript+%7C+Tailwind+%7C+shadcn%2Fui+%7C+Framer+Motion;Event%E2%80%91driven+design%2C+idempotency%2C+observability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&center=true&vCenter=true&width=900&lines=Backend+SDE+%E2%80%A2+Event%E2%80%91Driven+Systems+%E2%80%A2+AI%2FML;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker+%7C+AWS;Next.js+%7C+TypeScript+%7C+Tailwind;Idempotent+events%2C+observability%2C+developer+experience" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sampath-009&style=flat" alt="Profile views" />
+  <!-- Replace with your own GIF stored in this repo (e.g., /assets/hero.gif) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRyaWFyN3ZuaGlqY3Z5M3Fxb2tocHV5bXl2cGh6b2VobmFieGFtbiZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="680" alt="hero animation" />
 </p>
 
 ---
@@ -14,106 +15,75 @@
 
 I turn messy requirements into dependable services and polished experiences. I care about correctness (transactions, constraints, schema evolution), speed (caches, queues), and developer experience (docs, health checks, simple rollbacks).
 
+* MS CS (AI/ML), University at Buffalo (2024–2025)
+* Present: **Saayam For All** (React + Express + Postgres + Redis on ECS/Terraform)
+* Previous: **Kalam Dream Labs** (Spring Boot, MySQL → DynamoDB, Airflow, SQS, CI/CD), **Phoenix Global** (ML with PyTorch/Transformers)
+* AWS Certified Solutions Architect – Associate (2025)
+
+---
+
+### Impact highlights
+
+* Brought **p95 API latency to \~200ms** and **99.8% uptime** with indexing, pagination, task tuning, and CloudWatch runbooks
+* Migrated **500k+ records** MySQL → DynamoDB via **Airflow DAGs**, feature‑flag cutover, and checksum validation
+* Cut **deploy time from 60 → 25 min**; enabled **daily releases** with CodePipeline/CodeBuild + K8s/Kubernetes
+* Reduced **invalid submissions by 25%** using a rules‑engine validator; **‑15% support escalations** via SQS dedupe + DLQ redrive
+* ML: **+38% precision\@5** and **+15% completions** for a quiz recommender (A/B test); **0.8 corr.** DistilBERT auto‑grading
+
 ---
 
 ### Tech I enjoy
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img alt="AWS EC2" src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-3D3D3D?logo=clerk&logoColor=white" />
-  <img alt="Sanity" src="https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-  <img alt="Tesseract" src="https://img.shields.io/badge/Tesseract-5D2F86" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,redis,docker,aws,terraform,airflow,linux,git,githubactions,java,spring,ts,nodejs,express,nextjs,react,tailwind,prisma,pytorch,sklearn,pandas,numpy&perline=12" alt="skills" />
 </p>
 
 ---
 
-### GitHub at a glance
+### What I'm building / exploring
+
+* Event‑driven microservices with **idempotent contracts** and replay‑safe pipelines
+* **FastAPI** + **Next.js** full‑stack patterns, CI/CD, and observability
+* **RAG** and voice‑first agents (Whisper STT, LangChain, FAISS)
+
+<p align="center">
+  <!-- Optional secondary GIF (replace path with an asset in your repo) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k4Z2h3aHFxYzZzM3k2M3c2bXBwdXBjMGNwN2RyZmw2bmVrbzQxeSZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="520" alt="coding animation" />
+</p>
+
+---
+
+## 📊 Live widgets (toggle on/off)
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sampath-009&show_icons=true&rank_icon=github&hide_title=true&hide_border=true" alt="stats" />
+<!-- GitHub Stats -->
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-009&hide_border=true" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=sampath-009&show_icons=true&rank_icon=github&hide_border=true" alt="stats" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sampath-009&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+<!-- Streak -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-009&hide_border=true" alt="streak" />
+
+<!-- Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath-009&layout=compact&hide_border=true" alt="top langs" />
+
+<!-- Activity Graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sampath-009&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+
 </div>
 
----
-
-### Highlights (no links)
-
-* Appointment scheduling microservice with conflict‑free booking, idempotent events, and health‑gated deploys
-* Full‑stack Reddit‑style app with modern UI, auth, content, and search
-* Minesweeper desktop helper that OCRs the board and asks an LLM for the next move
+> Tip: If you prefer a cleaner look, keep **stats + top‑langs** and comment out the others.
 
 ---
 
-### Fancy: animated contribution snake
+## 🎛️ Optional fancy add‑ons
 
-> This draws a 🐍 across your contribution grid and updates automatically.
+### 1) 3D contribution landscape (SVG)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sampath-009/sampath-009/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<details>
-<summary>How to enable the snake (copy this workflow)</summary>
-
-1. Create folder: `.github/workflows/`
-2. Add file: `snake.yml` with the content below
-3. Commit and push. The action will create/update the animation on the `output` branch and your README will show it.
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"  # every day at 00:00 UTC
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sampath-009
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-### Fancy: 3D contribution landscape
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
-</p>
+<p align="center"><img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" /></p>
 
 <details>
 <summary>Enable the 3D graph (copy this workflow)</summary>
@@ -122,7 +92,7 @@ jobs:
 name: 3D Contributions
 on:
   schedule:
-    - cron: "0 2 * * *"  # every day at 02:00 UTC
+    - cron: "0 2 * * *"  # daily at 02:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -144,13 +114,9 @@ jobs:
 
 </details>
 
----
+### 2) Metrics dashboard (lowlighter)
 
-### Fancy: Metrics dashboard
-
-<p align="center">
-  <img src="./metrics.svg" alt="Metrics" />
-</p>
+<p align="center"><img src="./metrics.svg" alt="Metrics" /></p>
 
 <details>
 <summary>Enable metrics (copy this workflow)</summary>
@@ -161,7 +127,7 @@ jobs:
 name: Metrics
 on:
   schedule:
-    - cron: "0 3 * * *"  # every day at 03:00 UTC
+    - cron: "0 3 * * *"  # daily at 03:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -186,9 +152,7 @@ jobs:
 
 </details>
 
----
-
-### Fun: rotating quote / joke (toggle on/off)
+### 3) Quote/Joke widgets (fun)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="quote" />
@@ -197,14 +161,28 @@ jobs:
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=ffffff00" alt="joke" />
 </p>
 
+<!-- Snake animation is intentionally omitted by default; can be added later if desired. -->
+
 ---
 
-### Bonus: trophies (toggle on/off)
+### Contact
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sampath-009&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="trophies" />
+  <!-- Replace # with your actual links -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.name@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sampath-009&style=flat" alt="views" />
 </p>
 
 ---
 
-> Want a custom banner, different colors, or dark‑mode tweaks? Ping me the vibe and I'll swap the assets + settings.
+<!-- Implementation notes (not visible on profile):
+1) Repo must be named exactly your username: sampath-009. Put this text in README.md at repo root.
+2) For GIFs, add files under /assets and update the <img src> paths accordingly.
+3) To keep it link‑free, avoid adding direct project links; pin repos instead via Profile → Customize your pins.
+4) Tweak colors by changing the capsule-render color gradient and the typing SVG lines.
+-->
