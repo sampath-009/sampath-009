@@ -1,0 +1,21 @@
+name: 3D Contributions
+on:
+  schedule:
+    - cron: "0 2 * * *"  # every day at 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@v3
+        with:
+          USERNAME: sampath-009
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Generate 3D profile (auto)" || echo "No changes"
+          git push
