@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with your own GIF stored in this repo (e.g., /assets/hero.gif) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRyaWFyN3ZuaGlqY3Z5M3Fxb2tocHV5bXl2cGh6b2VobmFieGFtbiZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="680" alt="hero animation" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2vwTR_OpERN0S2zWQklXUD&ust=1757524925246000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiZgN6YzI8DFQAAAAAdAAAAABAE" />
 </p>
 
 ---
