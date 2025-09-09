@@ -15,8 +15,8 @@
 
 I turn messy requirements into dependable services and polished experiences. I care about correctness (transactions, constraints, schema evolution), speed (caches, queues), and developer experience (docs, health checks, simple rollbacks).
 
-* MS CS (AI/ML), University at Buffalo (2024–2025)
-* Present: **Saayam For All** (React + Express + Postgres + Redis on ECS/Terraform)
+* MS CS (AI/ML), University at Buffalo (2024–2025)]
+* Current: **Saayam For All** (React + Express + Postgres + Redis on ECS/Terraform)
 * Previous: **Kalam Dream Labs** (Spring Boot, MySQL → DynamoDB, Airflow, SQS, CI/CD), **Phoenix Global** (ML with PyTorch/Transformers)
 * AWS Certified Solutions Architect – Associate (2025)
 
@@ -50,32 +50,6 @@ I turn messy requirements into dependable services and polished experiences. I c
   <!-- Optional secondary GIF (replace path with an asset in your repo) -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k4Z2h3aHFxYzZzM3k2M3c2bXBwdXBjMGNwN2RyZmw2bmVrbzQxeSZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="520" alt="coding animation" />
 </p>
-
----
-
-## 📊 Live widgets (toggle on/off)
-
-<div align="center">
-
-<!-- GitHub Stats -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=sampath-009&show_icons=true&rank_icon=github&hide_border=true" alt="stats" />
-
-<!-- Streak -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-009&hide_border=true" alt="streak" />
-
-<!-- Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath-009&layout=compact&hide_border=true" alt="top langs" />
-
-<!-- Activity Graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sampath-009&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
-
-</div>
-
-> Tip: If you prefer a cleaner look, keep **stats + top‑langs** and comment out the others.
 
 ---
 
