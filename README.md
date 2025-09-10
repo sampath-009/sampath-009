@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with your own GIF stored in this repo (e.g., /assets/hero.gif) -->
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2vwTR_OpERN0S2zWQklXUD&ust=1757524925246000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiZgN6YzI8DFQAAAAAdAAAAABAE" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/filename.gif" />
 </p>
 
 ---
