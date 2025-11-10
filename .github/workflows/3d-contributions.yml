@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@v3
+      - uses: yoshi389111/github-profile-3d-contrib@v2
         with:
           USERNAME: sampath-009
       - name: Commit & push
