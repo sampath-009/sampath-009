@@ -17,7 +17,7 @@ I turn messy requirements into dependable services and polished experiences. I c
 
 * MS CS (AI/ML), University at Buffalo (2024–2025)]
 * Current: **Saayam For All** (React + Express + Postgres + Redis on ECS/Terraform)
-* Previous: **Kalam Dream Labs** (Spring Boot, MySQL → DynamoDB, Airflow, SQS, CI/CD), **Phoenix Global** (ML with PyTorch/Transformers)
+* Previous: **Kalam Dream Labs** (Spring Boot, MySQL → DynamoDB, Airflow, SQS, CI/CD), **Phoenix Global** (ML with PyTorch/Transformers), **Techtion Innovation** 
 * AWS Certified Solutions Architect – Associate (2025)
 
 ---
